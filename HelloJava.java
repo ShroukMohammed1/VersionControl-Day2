@@ -1,4 +1,4 @@
 ECHO is on.
 public void PrintHelloWorld(){
-	System.out.println("Hello World");
+	System.out.println("Hello World Test");
 }
